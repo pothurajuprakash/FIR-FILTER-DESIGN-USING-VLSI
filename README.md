@@ -27,5 +27,5 @@ From a performance perspective, this FIR filter design offers several advantages
 In conclusion, the FIR filter design successfully meets the objectives of the task by providing a functional and efficient digital filtering solution. The Verilog implementation accurately models the theoretical behavior of the filter, and the simulation results confirm its correctness. This design serves as a strong foundation for more advanced implementations, such as higher-order filters, pipelined architectures, or coefficient optimization techniques, making it highly relevant for real-world VLSI and DSP applications.
 
 OUTPUT:
-
+<img width="1680" height="936" alt="Image" src="https://github.com/user-attachments/assets/5f488fa4-87e6-440a-b02a-d083056d666e" />
 
